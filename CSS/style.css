@@ -1,0 +1,44 @@
+body {
+    background-color: burlywood;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+header{
+    margin-left: 400px;
+    margin-top: 30px;
+}
+#imagens1e2{
+    margin-left: 270px;
+    margin-right: 0px
+}
+
+#imagem3{
+    margin-left: 420px
+}
+#contato{
+    margin-top: 100px;
+}
+h1{
+    color: rgb(93, 158, 184);
+    font-family: fantasy;
+    font-size: 80px;
+}
+h2{
+    color: rgba(53, 0, 139, 0.637);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: xx-large;
+}
+
+.tier1{
+    margin-bottom: 30px;
+}
+.tier2{
+    margin-bottom: 10px;
+    width: 300px;
+}
+footer{
+    margin-bottom: 300px;
+}
